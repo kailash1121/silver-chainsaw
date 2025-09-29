@@ -37,5 +37,4 @@ node sparkvision_text_overlay_generator.js
 -	Verify watermark + HMAC
 -	Mobile & desktop testing- PDFs, checklists, videos verified
 Ready to Go!
--	Copy scripts -> run -> generate videos -> deploy -> platform live
 
